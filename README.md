@@ -6,6 +6,10 @@ I'm Carlos, a passionate reader, apprentice and practicioner of new technologies
 - 🌱 I'm currently learning how to deploy machine learning models in AWS and GCP.
 - 👯 I'm looking to collaborate on data science projects.
 
+You can reach me out at:
+-  [LinkedIn](https://www.linkedin.com/in/carlosnoelopezmejia/)
+-  [Email](mailto:carloslmescom@gmail.com)
+
 ![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carloslme&show_icons=true&theme=prussian)
 
 <!--
