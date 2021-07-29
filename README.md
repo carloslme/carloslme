@@ -4,6 +4,7 @@ I'm Carlos, a passionate reader, apprentice and practicioner of new technologies
 
 I'm currently working as a Data Engineer in a Delivery Company. 
 
+![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carloslme&show_icons=true&theme=radical)
 
 <!--
 **carloslme/carloslme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
