@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, welcome to my profile 👋
+
+I'm Carlos, a passionate reader, apprentice and practicioner of new technologies mainly focused on data science such as machine learning, deep learning, data engineering, and their applicationes in solving complex business problems that that include collecting, intrepreting, analyzing, and modeling data.
+
+I'm currently working as a Data Engineer in a Delivery Company. 
+
 
 <!--
 **carloslme/carloslme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
