@@ -4,11 +4,11 @@
   
   I'm Carlos, a passionate reader, apprentice and practicioner of new technologies mainly focused on data science such as machine learning, deep learning, data engineering, and their applicationes in solving complex business problems that that include collecting, intrepreting, analyzing, and modeling data.
 
- 💻 I'm currently working as a Data Engineer in a Delivery Company. 
+ 💻 I'm currently working as a Data Engineer in a global technology services provider.
   <br>
- 🌱 I'm currently learning how to deploy machine learning models in AWS and GCP.
+ 🌱 I'm currently learning how to create efficient and scalable data engineering infrastructure in GCP and AWS.
   <br>
- 👯 I'm looking to collaborate on data science projects.
+ 👯 I'm looking to collaborate on data science and data engineering projects.
   
   You can reach me out at:
   <br>
