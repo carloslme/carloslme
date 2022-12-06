@@ -2,17 +2,19 @@
 <div align="center">  
   <h1> Hi there, welcome to my profile 👋 </h1>
   
-  I'm Carlos, a passionate reader, apprentice and practicioner of new technologies mainly focused on data science such as machine learning, deep learning, data engineering, and their applicationes in solving complex business problems that that include collecting, intrepreting, analyzing, and modeling data.
+  I am Carlos, I have over six years of experience in software development and data, primarily in consultancy, logistics, and mobility. 
+
+I am passionate about solving complex business problems, including collecting, interpreting, analyzing, and modeling data. I also like learning about management and new technologies focused on Machine Learning, MLOps, Data Engineering, and Data Analysis. 
 
  💻 I'm currently working as a Data Engineer in a global technology services provider.
   <br>
- 🌱 I'm currently learning how to create efficient and scalable data engineering infrastructure in GCP and AWS.
+ 🌱 I'm currently learning how to create efficient and scalable machine learning infrastructure in GCP and AWS.
   <br>
  👯 I'm looking to collaborate on data science and data engineering projects.
   
   You can reach me out at:
   <br>
-  [LinkedIn](https://www.linkedin.com/in/carlosnoelopezmejia/)
+  [LinkedIn](https://www.linkedin.com/in/carloslme/)
   <br>
    [Email](mailto:carloslmescom@gmail.com)
   
