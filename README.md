@@ -6,11 +6,12 @@
 
 I am passionate about solving complex business problems, including collecting, interpreting, analyzing, and modeling data. I also like learning about management and new technologies focused on Machine Learning, MLOps, Data Engineering, and Data Analysis. 
 
+ 👯 I'm looking to collaborate on freelance data science and data engineering projects.
  💻 I'm currently working as a Data Engineer in a global technology services provider.
   <br>
  🌱 I'm currently learning how to create efficient and scalable machine learning infrastructure in GCP and AWS.
   <br>
- 👯 I'm looking to collaborate on data science and data engineering projects.
+ 
   
   You can reach me out at:
   <br>
