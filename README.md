@@ -6,10 +6,12 @@
 
 I am passionate about solving complex business problems, including collecting, interpreting, analyzing, and modeling data. I also like learning about management and new technologies focused on Machine Learning, MLOps, Data Engineering, and Data Analysis. 
 
- 👯 I'm looking to collaborate on freelance data science and data engineering projects.
- 💻 I'm currently working as a Data Engineer in a global technology services provider.
+  - I'm looking to collaborate on data science and data engineering projects.
+  - I also teach computer science topics such as Python, OOP, Unit and Integration Testing with Pytest, Packaging with Python, API REST, Software Engineering, Monitoring, Observability, Docker, and GitHub Actions.
+  - Ask me about data engineering topics (SQL, ETL, orchestration, Spark, streaming, batch, etc).
+  
   <br>
- 🌱 I'm currently learning how to create efficient and scalable machine learning infrastructure in GCP and AWS.
+ 🌱 I'm currently learning topics oriented to Machine Learning Operations (MLOps).
   <br>
  
   
