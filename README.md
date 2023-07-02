@@ -27,11 +27,17 @@ I am passionate about solving complex business problems, including collecting, i
 <a href="https://github-readme-stats.vercel.app/api?username=carloslme&show_icons=true&theme=prussian">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=carloslme&show_icons=true&theme=prussian" />
 </a>
+
+<br>
+<br>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=carloslme"/></a>
+
+<br>
+<br>
+<a href="https://github.com/carloslme/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carloslme&layout=compact&langs_count=8&card_width=320" />
+</a>
 </div>
-
-
-
-
 
 
 <!--
