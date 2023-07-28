@@ -2,7 +2,7 @@
 <div align="center">  
   <h1> Hi there, welcome to my profile 👋 </h1>
   
-  I am Carlos, I have over six years of experience in software development and data, primarily in consultancy, logistics, and mobility. 
+  I am Carlos, I have over seven years of experience in software development and data, primarily in consultancy, logistics, and mobility. 
 
 I am passionate about solving complex business problems, including collecting, interpreting, analyzing, and modeling data. I also like learning about management and new technologies focused on Machine Learning, MLOps, Data Engineering, and Data Analysis. 
 
