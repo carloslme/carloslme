@@ -6,6 +6,7 @@
 
 I am passionate about solving complex business problems, including collecting, interpreting, analyzing, and modeling data. I also like learning about management and new technologies focused on Machine Learning, MLOps, Data Engineering, and Data Analysis. 
 
+  - Currently pursuing a Master's degree in Computer Science at the Technical University of Munich (Machine Learning).
   - I'm looking to collaborate on data science and data engineering projects.
   - I also teach computer science topics such as Python, OOP, Unit and Integration Testing with Pytest, Packaging with Python, API REST, Software Engineering, Monitoring, Observability, Docker, and GitHub Actions.
   - Ask me about data engineering topics (SQL, ETL, orchestration, Spark, streaming, batch, etc).
