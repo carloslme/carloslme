@@ -1,32 +1,33 @@
 
 <div align="center">  
   <h1> Hi there, welcome to my profile 👋 </h1>
-  
-  I am Carlos, I have over seven years of experience in software development and data, primarily in consultancy, logistics, and mobility. 
-
-I am passionate about solving complex business problems, including collecting, interpreting, analyzing, and modeling data. I also like learning about management and new technologies focused on Machine Learning, MLOps, Data Engineering, and Data Analysis. 
-
-  - Currently pursuing a Master's degree in Computer Science at the Technical University of Munich (Machine Learning).
-  - I'm looking to collaborate on data science and data engineering projects.
-  - I also teach computer science topics such as Python, OOP, Unit and Integration Testing with Pytest, Packaging with Python, API REST, Software Engineering, Monitoring, Observability, Docker, and GitHub Actions.
-  - Ask me about data engineering topics (SQL, ETL, orchestration, Spark, streaming, batch, etc).
-  
-  <br>
- 🌱 I'm currently learning topics oriented to Machine Learning Operations (MLOps).
-  <br>
- 
-  
-  You can reach me out at:
-  <br>
-  [www.carloslme.com](https://carloslme.com/)
-  <br>
-  [LinkedIn](https://www.linkedin.com/in/carloslme/)
-  <br>
-   [Email](mailto:carloslmescom@gmail.com)
-  
   <img src="https://github.com/carloslme/carloslme/blob/main/carlos.gif" width="240" height="180" />
   <br>
   <br>
+  
+  I am Carlos, I have over seven years of experience in software development and data, primarily in consultancy, logistics, and mobility.
+
+I am passionate about solving complex business problems, including collecting, interpreting, analyzing, and modeling data. I also like learning about management and new technologies focused on Machine Learning, MLOps, Data Engineering, and Data Analysis.
+
+I am currently pursuing a Master’s degree in Computer Science at the Technical University of Munich (Machine Learning).
+
+I’m looking to collaborate on data science and data engineering projects.
+
+I also teach computer science topics such as Python, OOP, Unit and Integration Testing with Pytest, Packaging with Python, API REST, Software Engineering, Monitoring, Observability, Docker, and GitHub Actions. Visit https://carloslme.com/ide
+
+Ask me about data engineering topics (SQL, ETL, orchestration, Spark, streaming, batch, etc), and MLOps topics.
+
+**You can reach me at**:
+  <br>
+[LinkedIn](https://www.linkedin.com/in/carloslme/)
+  <br>
+Personal Email: [carloslmescom@gmail.com](mailto:carloslmescom@gmail.com)
+  <br>
+TUM Email: [carlos.mejia@tum.de](mailto:carlos.mejia@tum.de)
+  <br>
+Website: [www.carloslme.com](https://carloslme.com/)
+  
+  
 <a href="https://github-readme-stats.vercel.app/api?username=carloslme&show_icons=true&theme=prussian">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=carloslme&show_icons=true&theme=prussian" />
 </a>
