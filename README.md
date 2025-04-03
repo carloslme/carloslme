@@ -11,7 +11,7 @@ I am passionate about solving complex business problems, including collecting, i
 
 I am currently pursuing a Master’s degree in Computer Science at the Technical University of Munich (Machine Learning and Natural Language Processing).
 
-I’m looking to collaborate on data science and data engineering projects.
+I want to collaborate on generative AI projects, NLP/LLM-driven use cases, LLMOps/MLOPs, and data engineering projects.
 
 Ask me about data engineering topics (SQL, ETL, orchestration, Spark, streaming, batch, etc.) and MLOps.
 
